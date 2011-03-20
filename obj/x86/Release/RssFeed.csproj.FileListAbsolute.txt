@@ -1,0 +1,10 @@
+C:\Users\Matti\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Matti\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\Matti\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\Matti\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+C:\Users\Matti\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb
+C:\Users\Matti\documents\visual studio 2010\Projects\RssFeed\RssFeed\bin\Release\RssFeed.exe
+C:\Users\Matti\documents\visual studio 2010\Projects\RssFeed\RssFeed\bin\Release\RssFeed.pdb
+C:\Users\Matti\documents\visual studio 2010\Projects\RssFeed\RssFeed\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Matti\documents\visual studio 2010\Projects\RssFeed\RssFeed\obj\x86\Release\RssFeed.exe
+C:\Users\Matti\documents\visual studio 2010\Projects\RssFeed\RssFeed\obj\x86\Release\RssFeed.pdb

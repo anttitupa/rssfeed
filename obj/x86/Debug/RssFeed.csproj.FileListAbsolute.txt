@@ -1,0 +1,5 @@
+C:\Users\Matti\Documents\Visual Studio 2010\Projects\RssFeed\RssFeed\bin\Debug\RssFeed.exe
+C:\Users\Matti\Documents\Visual Studio 2010\Projects\RssFeed\RssFeed\bin\Debug\RssFeed.pdb
+C:\Users\Matti\Documents\Visual Studio 2010\Projects\RssFeed\RssFeed\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matti\Documents\Visual Studio 2010\Projects\RssFeed\RssFeed\obj\x86\Debug\RssFeed.exe
+C:\Users\Matti\Documents\Visual Studio 2010\Projects\RssFeed\RssFeed\obj\x86\Debug\RssFeed.pdb
