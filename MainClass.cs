@@ -4,7 +4,8 @@ using System.Linq;
 using System.Xml.Linq;
 using System.IO;
 
-
+// My first c# program, be gentle.
+ 
 namespace RssFeed
 {
     class MainClass

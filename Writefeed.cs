@@ -33,7 +33,7 @@ namespace RssFeed
                 rssFeed.Save(fileName + ".xml");
                 return true;
             
-            //probably IOException but I am not sure
+            //Bad habit, but I wasn't sure which exception program should catch.
             }catch(Exception e)
             {
                 Console.Write(e);
